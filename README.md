@@ -1,2 +1,2 @@
 # Text-Generator
-Markov Chains- NLP(Natural Language Processing)
+Using,  Markov Chains- NLP(Natural Language Processing)
